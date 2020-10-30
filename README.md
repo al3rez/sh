@@ -13,7 +13,7 @@
   </p>
   <p>
     <sub>Built with ❤︎ by
-      <a href="https://github.com/gigantik">gigantik</a> and
+      <a href="https://github.com/gigantik">gigantik</a>
     </sub>
   </p>
 </div>
