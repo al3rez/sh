@@ -27,7 +27,7 @@
 Download & installation
 -----------------------
 
-Grab the workflow from GitHub repository. Download the sh - Safari History Fuzzy Search.alfredworkflow file and double-click it to install.
+Grab the workflow from GitHub repository. Download the <a href="sh - Safari History Fuzzy Search.alfredworkflow">sh - Safari History Fuzzy Search.alfredworkflow</a> file and double-click it to install.
 
 Usage
 -----
