@@ -29,7 +29,14 @@ Download & installation
 
 Grab the workflow from GitHub repository. Download the sh - Safari History Fuzzy Search.alfredworkflow file and double-click it to install.
 
+Prerequisites
+-----
+
+You need to permit Alfred full disk access since copying Safari history db file to `/tmp/h` is needed!
+<img src="images/alfred-disk-access.png" width="80%" height="80%">
+
 Usage
 -----
 
 - `sh [<query>]` — Search and open recent history
+
